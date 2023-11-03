@@ -1,6 +1,6 @@
 # Penjelasan Tugas
 
-## Tugas 1
+## Task 1
 1. perulangan for yang menjelaskan menggunakan int dan variabel i adalah 1. Jika i kurang dari 100. maka variabel i ditambah.
  ```sh
    for (int i = 1; i <= 100; i++)
@@ -22,7 +22,7 @@
 ![Screenshot (120)](https://github.com/Cheesecake222/Tugas.Coding/assets/146424648/6681cdae-483f-4ea9-b4ec-18fb2be949f5)
 
 
-## Tugas 2
+## Task 2
 1. Membaca input dari pengguna dan penamaan variabel yaitu number menggunakan type data integer
 ```sh
    Scanner scanner = new Scanner(System.in);
@@ -49,7 +49,7 @@ number = scanner.nextInt();
 ![Screenshot (121)](https://github.com/Cheesecake222/Tugas.Coding/assets/146424648/87140001-371d-488c-983a-98b19e66ffaa)
 
 
-## Tugas 3
+## Task 3
 1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 25 2 untuk tanggal 25 Februari). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
 ```sh
    Scanner scanner = new Scanner(System.in);
@@ -96,7 +96,7 @@ number = scanner.nextInt();
 ![Screenshot (122)](https://github.com/Cheesecake222/Tugas.Coding/assets/146424648/efc529c0-2f4f-47b9-828e-7361e0775861)
 
 
-## Tugas 4
+## Task 4
 1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
 ```sh
     int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
